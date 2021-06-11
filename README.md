@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @admassu349
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Admassu Tessema
+- 👀 I’m interested in Data Analysis
+-  🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me : you can reach me on admassu349@gmail.com
 
 <!---
 admassu349/admassu349 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
